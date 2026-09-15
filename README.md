@@ -5,7 +5,7 @@ vehicle data via a Bluetooth Low Energy ELM327 OBD-II adapter (e.g. LeLink2).
 
 This integration is a fork of
 [pbutterworth/nissan-leaf-obd-ble](https://github.com/pbutterworth/nissan-leaf-obd-ble)
-with the following additions:
+and [hucknz/ha_nissan_leaf_obd_ble](https://github.com/hucknz/ha_nissan_leaf_obd_ble) with the following additions:
 
 | Feature | Original | This fork |
 |---|---|---|
